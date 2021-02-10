@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+#homeImg {
+  width: 100%;
+  object-fit: cover;
+  overflow: hidden;
+}
+#homeImgBdr {
+  object-fit: cover;
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+}
+#cardBody {
+  overflow: auto;
+  height: auto;
+}
